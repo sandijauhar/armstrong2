@@ -1,5 +1,5 @@
 
-
+//tambah comment
 package jurnal2;
 
 public class Jurnal2 {
