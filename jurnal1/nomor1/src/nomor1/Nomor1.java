@@ -11,7 +11,7 @@ public class Nomor1 {
         int a=0;
         int n=0;
         
-        System.out.println("masukan angka : ");
+        System.out.println("masukan angka  = ");
         Scanner input=new Scanner(System.in);
         n=input.nextInt();
         
