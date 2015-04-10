@@ -20,7 +20,7 @@ public class Nomor1 {
          i=i+a;
          a++;
             
-            
+          //colaborator edited 
         }
         
     }
